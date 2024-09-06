@@ -4,7 +4,8 @@
 I'm a **backend developer** passionate about building web applications, specifically with **Python** and the **Django framework**. Currently in job search!
 
 ## Technologies & Tools:
-- **Backend**: <i class="devicon-python-plain"></i> <i class="devicon-django-plain"></i> <i class="devicon-djangorest-plain"></i> <i class="devicon-json-plain"></i>
+- **Backend**:
+-     <i class="devicon-python-plain"></i> <i class="devicon-django-plain"></i> <i class="devicon-djangorest-plain"></i> <i class="devicon-json-plain"></i>
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Version Control**: Git, GitHub, Docker
 - **Others**: HTML, CSS, Jinja, Swagger
