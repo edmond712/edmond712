@@ -9,9 +9,6 @@ I'm a **backend developer** passionate about building web applications, specific
 - **Version Control**: Git, GitHub, Docker
 - **Others**: HTML, CSS, Jinja, Swagger, Postman
 
-## Current Project
-I'm working on a **risk calculation web app** using Django where users can upload a JSON file and calculate risks.
-
 ## Goals
 - Looking for **remote Django backend development opportunities**
 - Learning more about advanced **API development**, **cloud deployments** and **asynchronous programming**
